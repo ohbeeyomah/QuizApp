@@ -22,5 +22,3 @@ This app can be downloaded from [https://drive.google.com/file/d/1Ue6PailWUO6bAm
 Configure Security settings to enable installation from "Unknown sources"
 
 Install
-
-
