@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_layout_paddingTop">96dp</dimen>
+    <dimen name="size_16">16dp</dimen>
+    <dimen name="start_btn_marginTop">64dp</dimen>
+    <dimen name="size_0">0dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="regular_text_size">16sp</dimen>
+</resources>
