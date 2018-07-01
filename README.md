@@ -19,6 +19,6 @@ targetSdkversion 27
 
 This app can be downloaded from [https://drive.google.com/file/d/1Ue6PailWUO6bAmATZF92vsiP6z8k2N_W/view](https://drive.google.com/file/d/1Ue6PailWUO6bAmATZF92vsiP6z8k2N_W/view)
 
-Configure Security settings to enable installation from "Unknown sources"
+Configure security settings on your Android device to enable installation from "Unknown sources"
 
 Install
